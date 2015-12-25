@@ -1,0 +1,78 @@
+/*设置字体颜色*/
+body{
+	color:#000000;
+}
+/*设置所有超链接的颜色*/
+a{
+	color:#548DD4;
+	text-decoration:none;
+}
+/*设置关键字的颜色*/
+.key{
+	color:#F02A0C;
+}
+/*设置说明性文字的颜色*/
+.explain{
+	color:#999999;
+}
+/*设置用户名超链接颜色*/
+.user{
+	color:#44535E;
+}
+/*设置提示新文字的颜色*/
+.point{
+	color:#676566;
+}
+/*提示文字中超链接的样色*/
+.point a{
+	color:#548DD4;
+}
+/*设置logo的字体大小*/
+#container #header{
+	font-size:0.9375em;
+}
+/*设置头尾的背景样色以及字体颜色*/
+#container .hf{
+	background-color:#8BCAF7;
+	color:#000000;
+}
+/*设置头尾链接的颜色*/
+#container .hf a{
+	color:#000000;
+}
+/*设置h1标题的背景字帖颜色以及下划线的颜色*/
+#container h1{
+	background-color:#E2F2FD;
+	color:#FF00FF;
+	border-bottom:0.0625em solid #CEEAFC;
+}
+/*设置h1标题下链接的颜色*/
+#container h1 a{
+	color:#548DD4;
+}
+/*设置分割线的颜色*/
+#container .caption{	border-bottom:0.0625em solid #CEEAFC;
+}
+/*设置彩板 3g版那块的字体和背景颜色*/
+#container #footNav{
+	color:#000000;
+	background-color:#E2F2FD;
+}
+/*设置彩板 3g版那块的字体和背景颜色链接的颜色*/
+#container #footNav a{
+	color:#548DD4;
+}
+/*设置h2的背景颜色、字体颜色和边框颜色*/
+#container h2{
+	color:#000000;
+	background-color:#E2F2FD;
+	border:0.0625em solid #CEEAFC;
+}
+/*设置h2的超链接颜色*/
+#container h2 a{
+	color:#000000;
+}
+/*设置帖子评论页隔行变色的效果*/
+#container .remarksodd{
+	background-color:#ECF7FD;
+}

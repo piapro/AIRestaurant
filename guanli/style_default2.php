@@ -1,0 +1,17 @@
+<?php 
+$top_groundColor='B00002';
+$top_aColor='FEFEFE';
+$h1_groundColor='E5E5E5';
+$h1_aColor='548DD4';
+$h1_borderColor='CEEAFC';
+$all_color='272727';
+$all_desColor='999999';
+$all_aColor='B00002';
+$all_aUcolor='C48B8B';
+$h2_groundColor='E2F2FD';
+$h2_borderColor='CEEAFC';
+$key_color='FFFFFF';
+$point_color='818080';
+$point_aColor='FFFFFF';
+$line_color='CEEAFC';
+?>
