@@ -1,5 +1,5 @@
 <?php
-	/**
+	/*
 	 *  service.php  
 	 */
 	require_once("usercheck.php");
